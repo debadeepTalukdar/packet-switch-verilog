@@ -63,7 +63,7 @@ gtkwave packet_switch.vcd   # optional, view waveforms
 
 Expected: `SUMMARY: 5 passed, 0 failed` / `RESULT: ALL TESTS PASSED`.
 
-Also runnable on [EDA Playground](https://www.edaplayground.com/) with
+Also runnable on https://www.edaplayground.com/x/GZPX with
 Icarus Verilog selected as the simulator -- no local install needed.
 
 ## Possible extensions
